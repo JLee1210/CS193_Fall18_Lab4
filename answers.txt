@@ -1,5 +1,5 @@
 Task 1:
-Sice me with the Deets
+Sice me with the Deets Sice
 
 // Under this line, describe what the command 'git fetch' does
 
