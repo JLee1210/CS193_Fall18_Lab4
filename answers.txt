@@ -1,13 +1,13 @@
 Task 1:
 
-// Under this line write a message to yourself from GitHub
+Sice
 
 Updates the changes from main server to remote server
 
 
 Task 2:
 
-// Under this line describe why we need to run 'git push' after making a commit
+Need to synch local repository with main server on GitHub by pushing the changes
 
 Task 3:
 
