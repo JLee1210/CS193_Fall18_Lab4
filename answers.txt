@@ -2,7 +2,7 @@ Task 1:
 
 // Under this line write a message to yourself from GitHub
 
-// Under this line, describe what the command 'git fetch' does
+Updates the changes from main server to remote server
 
 
 Task 2:
