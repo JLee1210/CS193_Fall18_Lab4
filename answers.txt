@@ -21,7 +21,7 @@ this is new message
 new attempt
 >>>>>>> 94ea3720105a2dafc49b18a9f1213b81ac7ab5e8
 
-// Under this line, write a message to yourself from the branch 'branch-B'
+sice me with those deets
 
 // Under this line, write a message to yourself from the branch 'branch-C'
 
