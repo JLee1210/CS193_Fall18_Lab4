@@ -11,7 +11,7 @@ Need to synch local repository with main server on GitHub by pushing the changes
 
 Task 3:
 
-// Under this line, write a message to yourself from the branch 'branch-A'
+this is new message
 
 // Under this line, write a message to yourself from the branch 'branch-B'
 
