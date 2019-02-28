@@ -1,6 +1,10 @@
 Task 1:
 
+<<<<<<< HEAD
 Sice
+=======
+Sice me with them Deets
+>>>>>>> 94ea3720105a2dafc49b18a9f1213b81ac7ab5e8
 
 Updates the changes from main server to remote server
 
@@ -11,7 +15,11 @@ Need to synch local repository with main server on GitHub by pushing the changes
 
 Task 3:
 
+<<<<<<< HEAD
 this is new message
+=======
+new attempt
+>>>>>>> 94ea3720105a2dafc49b18a9f1213b81ac7ab5e8
 
 // Under this line, write a message to yourself from the branch 'branch-B'
 
