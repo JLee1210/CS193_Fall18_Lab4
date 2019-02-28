@@ -23,7 +23,7 @@ new attempt
 
 sice me with those deets
 
-// Under this line, write a message to yourself from the branch 'branch-C'
+I git branch branch-C from git branch A
 
 // END OF LAB 4
 
